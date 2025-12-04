@@ -30,7 +30,7 @@ A powerful, cross-platform installer for the **TeamSpeak 3 Server**, supporting 
 ### 📗 Linux / macOS
 
 ```bash
-curl -O https://github.com/ChocoJaYY/ts3server-autoinstaller/install.sh
+curl -O https://github.com/ChocoJaYY/ts3server-autoinstaller/blob/b25e1fd73699d2f3cbe2ef3e7a7560a36d808873/install.sh
 chmod +x install.sh
 ./install.sh
 ```
